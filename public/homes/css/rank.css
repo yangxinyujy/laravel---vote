@@ -1,0 +1,34 @@
+body {
+	background-color: #fff1ac;
+}
+
+#concent {
+	width: 100%;
+	background-color: #fff1ac;
+}
+
+#concent table {
+	border-collapse: collapse;
+	margin-left: 0.45rem;
+}
+
+#concent table tr td {
+	display: inline-block;
+	padding-left: 0.2rem;
+	height: 0.8rem;
+	line-height: 0.8rem;
+	border: 1px solid #999;
+	background-color: #fff1ac;
+}
+
+#concent table tr td:nth-child(1) {
+	width: 2.3rem;
+}
+
+#concent table tr td:nth-child(2) {
+	width: 3.8rem;
+}
+
+#concent table tr td:nth-child(3) {
+	width: 2.3rem;
+}
